@@ -1,0 +1,2155 @@
+{
+  "releaseReady": true,
+  "version": "mobile-01",
+  "auditedAt": "2026-09-06",
+  "publishedHtmlSha256": "BDDC0C0563176C99167233EA2F77D1DF44B6C7DEB43D025667BCDAB7DE4D8B86",
+  "sourceWorkbookSha256": "FD94E4183012BF7A730165029859B9C3963D219B31482FFAE34375EE62453C4F",
+  "sourceWorkbookSheetCount": 1,
+  "sourceWorkbookRowsAudited": 82681,
+  "publishedRows": 82616,
+  "yearCounts": {
+    "2021": 11248,
+    "2022": 13469,
+    "2023": 14219,
+    "2024": 14359,
+    "2025": 14394,
+    "2026": 14927
+  },
+  "admissionNameAudit": {
+    "universityCount": 197,
+    "universityAdmissionPairsBefore": 1336,
+    "universityAdmissionPairsAfter": 1277,
+    "globalAdmissionNamesBefore": 540,
+    "globalAdmissionNamesAfter": 527,
+    "acceptedGroupCount": 59,
+    "acceptedExactGroupCount": 50,
+    "acceptedFuzzyOfficialGroupCount": 9,
+    "rejectedFuzzyGroupCount": 48,
+    "rowsRelabeled": 3966,
+    "postMergeDuplicateRowsRemoved": 0,
+    "accepted": [
+      {
+        "university": "가야대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "감신대",
+        "variants": [
+          "교과(목회자추천')",
+          "교과(목회자추천)"
+        ],
+        "canonical": "교과(목회자추천)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "건양대",
+        "variants": [
+          "교과(일반학생-최저)",
+          "교과(일반학생[최저])"
+        ],
+        "canonical": "교과(일반학생-최저)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "건양대",
+        "variants": [
+          "교과(지역인재-면접)",
+          "교과(지역인재[면접])"
+        ],
+        "canonical": "교과(지역인재-면접)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "건양대",
+        "variants": [
+          "교과(지역인재-최저)",
+          "교과(지역인재[최저])"
+        ],
+        "canonical": "교과(지역인재-최저)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "경남대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [
+          "일반전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "경상국립대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "경상국립대",
+        "variants": [
+          "종합(일반)",
+          "종합(일반전형)"
+        ],
+        "canonical": "종합(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "경성대",
+        "variants": [
+          "교과(일반계(면접))",
+          "교과(일반계면접)"
+        ],
+        "canonical": "교과(일반계면접)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "경일대",
+        "variants": [
+          "교과(면접)",
+          "교과(면접전형)"
+        ],
+        "canonical": "교과(면접전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [
+          "면접전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "경일대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [
+          "일반전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "계명대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "계명대",
+        "variants": [
+          "교과(지역)",
+          "교과(지역전형)"
+        ],
+        "canonical": "교과(지역전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "계명대",
+        "variants": [
+          "종합(일반)",
+          "종합(일반전형)"
+        ],
+        "canonical": "종합(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "계명대",
+        "variants": [
+          "종합(지역)",
+          "종합(지역전형)"
+        ],
+        "canonical": "종합(지역전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "국립공주대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "국립공주대",
+        "variants": [
+          "종합(일반)",
+          "종합(일반전형)"
+        ],
+        "canonical": "종합(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "국립군산대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [
+          "일반전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "국립목포대",
+        "variants": [
+          "종합(일반)",
+          "종합(일반전형)"
+        ],
+        "canonical": "종합(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "국립순천대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "국립한국교통대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [
+          "일반전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "남서울대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [
+          "일반전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "대구대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "대구대",
+        "variants": [
+          "종합(서류)",
+          "종합(서류전형)"
+        ],
+        "canonical": "종합(서류전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "대구한의대",
+        "variants": [
+          "교과(면접)",
+          "교과(면접전형)"
+        ],
+        "canonical": "교과(면접전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "대구한의대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "동국대(W)",
+        "variants": [
+          "교과(면접)",
+          "교과(면접전형)"
+        ],
+        "canonical": "교과(면접전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "동명대",
+        "variants": [
+          "교과(면접)",
+          "교과(면접전형)"
+        ],
+        "canonical": "교과(면접전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [
+          "면접전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "동신대",
+        "variants": [
+          "교과(면접)",
+          "교과(면접전형)"
+        ],
+        "canonical": "교과(면접전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [
+          "면접전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "동신대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [
+          "일반전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "동양대",
+        "variants": [
+          "교과(면접)",
+          "교과(면접전형)"
+        ],
+        "canonical": "교과(면접전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [
+          "면접전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "동양대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [
+          "일반전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "서울대",
+        "variants": [
+          "종합(일반)",
+          "종합(일반전형)"
+        ],
+        "canonical": "종합(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [
+          "https://admission.snu.ac.kr/materials/guides/guides?bbsidx=128285&md=v",
+          "https://admission.snu.ac.kr/materials/guides/guides?bbsidx=156547&md=v"
+        ],
+        "confidence": "high"
+      },
+      {
+        "university": "서원대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [
+          "일반전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "세명대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "순천향대",
+        "variants": [
+          "종합(일반)",
+          "종합(일반전형)"
+        ],
+        "canonical": "종합(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "신한대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [
+          "일반전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "연세대",
+        "variants": [
+          "종합(국제형(국내))",
+          "종합(국제형-국내)"
+        ],
+        "canonical": "종합(국제형-국내)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "원광대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [
+          "일반전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "원광대",
+        "variants": [
+          "종합(서류)",
+          "종합(서류전형)"
+        ],
+        "canonical": "종합(서류)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "위덕대",
+        "variants": [
+          "교과(면접)",
+          "교과(면접전형)"
+        ],
+        "canonical": "교과(면접전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [
+          "면접전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "조선대",
+        "variants": [
+          "종합(일반)",
+          "종합(일반전형)"
+        ],
+        "canonical": "종합(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "청주대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [
+          "일반전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "춘천교대",
+        "variants": [
+          "종합(교직적‧인성)",
+          "종합(교직적인성)"
+        ],
+        "canonical": "종합(교직적·인성)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "충남대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [
+          "일반전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "충북대",
+        "variants": [
+          "종합(SW우수인재)",
+          "종합(sw우수인재)"
+        ],
+        "canonical": "종합(SW우수인재)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "한남대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "호서대",
+        "variants": [
+          "교과(학생부)",
+          "교과(학생부전형)"
+        ],
+        "canonical": "교과(학생부전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [
+          "학생부전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "호서대",
+        "variants": [
+          "종합(AI·SW인재)",
+          "종합(AI⋅SW인재)"
+        ],
+        "canonical": "종합(AI·SW인재)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [
+          "AI·SW인재전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "호원대",
+        "variants": [
+          "교과(일반)",
+          "교과(일반전형)"
+        ],
+        "canonical": "교과(일반전형)",
+        "basis": "전형 단어·공백·괄호·구두점·대소문자만 다른 동일 전형명",
+        "adigaOfficialNames": [
+          "일반전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "고려대",
+        "variants": [
+          "교과(학교장추천)",
+          "교과(학교추천)"
+        ],
+        "canonical": "교과(학교추천)",
+        "basis": "대학 입학처의 2021·2026 공식 명칭이 모두 학교추천전형",
+        "adigaOfficialNames": [
+          "학교추천전형"
+        ],
+        "officialDirectSources": [
+          "https://oku.korea.ac.kr/attach/202008/1597825766248_0.pdf",
+          "https://oku.korea.ac.kr/oku/cms/FR_BBS_CON/BoardView.do?BBS_SEQ=1707&BOARD_SEQ=5&CONTENTS_NO=1&MENU_ID=750&SITE_NO=2"
+        ],
+        "confidence": "high"
+      },
+      {
+        "university": "국립한국해양대",
+        "variants": [
+          "종합(아치해양Ⅰ)",
+          "종합(아치해양인재Ⅰ)"
+        ],
+        "canonical": "종합(아치해양인재Ⅰ)",
+        "basis": "대학어디가 공식 명칭 아치해양인재전형Ⅰ",
+        "adigaOfficialNames": [
+          "아치해양인재전형Ⅰ"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "나사렛대",
+        "variants": [
+          "교과(글로컬지역Ⅰ)",
+          "교과(글로컬지역인재Ⅰ)"
+        ],
+        "canonical": "교과(글로컬지역인재Ⅰ)",
+        "basis": "대학어디가 공식 명칭 글로컬지역인재Ⅰ",
+        "adigaOfficialNames": [
+          "글로컬지역인재Ⅰ"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "숙명여대",
+        "variants": [
+          "종합(숙명인재(면접형))",
+          "종합(숙명인재-면접)"
+        ],
+        "canonical": "종합(숙명인재-면접)",
+        "basis": "면접형의 괄호·접미 표현만 변경된 연도별 표기",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "숙명여대",
+        "variants": [
+          "종합(숙명인재(서류형))",
+          "종합(숙명인재-서류)"
+        ],
+        "canonical": "종합(숙명인재-서류)",
+        "basis": "서류형의 괄호·접미 표현만 변경된 연도별 표기",
+        "adigaOfficialNames": [],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "숭실대",
+        "variants": [
+          "교과(학생부우수)",
+          "교과(학생부우수자)"
+        ],
+        "canonical": "교과(학생부우수자)",
+        "basis": "대학어디가 공식 명칭 학생부우수자전형",
+        "adigaOfficialNames": [
+          "학생부우수자전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "제주대",
+        "variants": [
+          "종합(소프트웨어)",
+          "종합(소프트웨어인재)"
+        ],
+        "canonical": "종합(소프트웨어인재)",
+        "basis": "대학어디가 공식 명칭 소프트웨어인재전형",
+        "adigaOfficialNames": [
+          "소프트웨어인재전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "초당대",
+        "variants": [
+          "교과(일반계고)",
+          "교과(일반고)"
+        ],
+        "canonical": "교과(일반고)",
+        "basis": "대학어디가 공식 명칭 일반고전형",
+        "adigaOfficialNames": [
+          "일반고전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      },
+      {
+        "university": "한신대",
+        "variants": [
+          "교과(학생부우수)",
+          "교과(학생부우수자)"
+        ],
+        "canonical": "교과(학생부우수자)",
+        "basis": "대학어디가 공식 명칭 학생부우수자전형",
+        "adigaOfficialNames": [
+          "학생부우수자전형"
+        ],
+        "officialDirectSources": [],
+        "confidence": "high"
+      }
+    ],
+    "rejected": [
+      {
+        "university": "강남대",
+        "left": "종합(학교생활)",
+        "right": "종합(학교생활1)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2023,
+          2024,
+          2025
+        ],
+        "rightYears": [
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "강남대",
+        "left": "종합(학교생활)",
+        "right": "종합(학교생활2)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2023,
+          2024,
+          2025
+        ],
+        "rightYears": [
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "강원대",
+        "left": "종합(미래인재)",
+        "right": "종합(미래인재1)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2022,
+          2023
+        ],
+        "rightYears": [
+          2024,
+          2025
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "강원대",
+        "left": "종합(미래인재)",
+        "right": "종합(미래인재2)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2022,
+          2023
+        ],
+        "rightYears": [
+          2024,
+          2025
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "강원대",
+        "left": "종합(소프트웨어)",
+        "right": "종합(소프트웨어인재)",
+        "similarity": 0.8333,
+        "leftYears": [
+          2023
+        ],
+        "rightYears": [
+          2022
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "건양대",
+        "left": "교과(지역인재)",
+        "right": "교과(지역인재A)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2023,
+          2024,
+          2026
+        ],
+        "rightYears": [
+          2022
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "건양대",
+        "left": "교과(지역인재)",
+        "right": "교과(지역인재B)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2023,
+          2024,
+          2026
+        ],
+        "rightYears": [
+          2022
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "국립군산대",
+        "left": "교과(지역인재)",
+        "right": "교과(지역인재Ⅰ)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2023,
+          2024
+        ],
+        "rightYears": [
+          2025,
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [
+          "지역인재Ⅰ전형",
+          "지역인재전형"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "국립군산대",
+        "left": "교과(지역인재)",
+        "right": "교과(지역인재Ⅱ)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2023,
+          2024
+        ],
+        "rightYears": [
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [
+          "지역인재전형"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "국립부경대",
+        "left": "교과성적",
+        "right": "교과성적I",
+        "similarity": 0.8889,
+        "leftYears": [
+          2022
+        ],
+        "rightYears": [
+          2021
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "국립부경대",
+        "left": "교과성적I",
+        "right": "교과성적II",
+        "similarity": 0.9091,
+        "leftYears": [
+          2021
+        ],
+        "rightYears": [
+          2021
+        ],
+        "coexistingYears": [
+          2021
+        ],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "국립한국교통대",
+        "left": "종합(학생부종합Ⅰ)",
+        "right": "종합(학생부종합Ⅱ)",
+        "similarity": 0.8333,
+        "leftYears": [
+          2024,
+          2025,
+          2026
+        ],
+        "rightYears": [
+          2024,
+          2025,
+          2026
+        ],
+        "coexistingYears": [
+          2024,
+          2025,
+          2026
+        ],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "단국대(죽전)",
+        "left": "종합(DKU인재)",
+        "right": "종합(DKU인재-면접)",
+        "similarity": 0.8333,
+        "leftYears": [
+          2021,
+          2022,
+          2023
+        ],
+        "rightYears": [
+          2024,
+          2025,
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "단국대(죽전)",
+        "left": "종합(DKU인재)",
+        "right": "종합(DKU인재-서류)",
+        "similarity": 0.8333,
+        "leftYears": [
+          2021,
+          2022,
+          2023
+        ],
+        "rightYears": [
+          2024,
+          2025,
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "단국대(천안)",
+        "left": "종합(DKU인재)",
+        "right": "종합(DKU인재-면접)",
+        "similarity": 0.8333,
+        "leftYears": [
+          2021,
+          2022,
+          2023,
+          2024
+        ],
+        "rightYears": [
+          2025,
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [
+          "DKU인재전형"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "단국대(천안)",
+        "left": "종합(DKU인재)",
+        "right": "종합(DKU인재-서류)",
+        "similarity": 0.8333,
+        "leftYears": [
+          2021,
+          2022,
+          2023,
+          2024
+        ],
+        "rightYears": [
+          2025,
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [
+          "DKU인재전형"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "덕성여대",
+        "left": "종합(덕성인재)",
+        "right": "종합(덕성인재Ⅰ)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2021
+        ],
+        "rightYears": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [
+          "덕성인재전형Ⅰ"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "덕성여대",
+        "left": "종합(덕성인재)",
+        "right": "종합(덕성인재Ⅱ)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2021
+        ],
+        "rightYears": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [
+          "덕성인재전형Ⅱ"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "동의대",
+        "left": "종합(학교생활-면접)",
+        "right": "종합(학교생활우수(면접))",
+        "similarity": 0.8571,
+        "leftYears": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "rightYears": [
+          2021,
+          2022
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "배재대",
+        "left": "교과(지역인재)",
+        "right": "교과(지역인재I)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2023,
+          2024
+        ],
+        "rightYears": [
+          2024,
+          2025,
+          2026
+        ],
+        "coexistingYears": [
+          2024
+        ],
+        "officialCandidates": [
+          "지역인재I전형"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "배재대",
+        "left": "교과(지역인재I)",
+        "right": "교과(지역인재II)",
+        "similarity": 0.9091,
+        "leftYears": [
+          2024,
+          2025,
+          2026
+        ],
+        "rightYears": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "coexistingYears": [
+          2024,
+          2025,
+          2026
+        ],
+        "officialCandidates": [
+          "지역인재II전형",
+          "지역인재I전형"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "백석대",
+        "left": "교과(지역인재)",
+        "right": "교과(지역인재2)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2023,
+          2024,
+          2026
+        ],
+        "rightYears": [
+          2021
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "서울시립대",
+        "left": "종합(종합I)",
+        "right": "종합(종합II)",
+        "similarity": 0.8571,
+        "leftYears": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "rightYears": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "coexistingYears": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "신라대",
+        "left": "종합(학생부종합)",
+        "right": "종합(학생부종합Ⅰ)",
+        "similarity": 0.9091,
+        "leftYears": [
+          2023,
+          2024
+        ],
+        "rightYears": [
+          2025,
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [
+          "학생부종합전형Ⅰ"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "신라대",
+        "left": "종합(학생부종합)",
+        "right": "종합(학생부종합Ⅱ)",
+        "similarity": 0.9091,
+        "leftYears": [
+          2023,
+          2024
+        ],
+        "rightYears": [
+          2025,
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [
+          "학생부종합전형Ⅱ"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "신라대",
+        "left": "종합(학생부종합Ⅰ)",
+        "right": "종합(학생부종합Ⅱ)",
+        "similarity": 0.8333,
+        "leftYears": [
+          2025,
+          2026
+        ],
+        "rightYears": [
+          2025,
+          2026
+        ],
+        "coexistingYears": [
+          2025,
+          2026
+        ],
+        "officialCandidates": [
+          "학생부종합전형Ⅰ",
+          "학생부종합전형Ⅱ"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "안양대",
+        "left": "종합(아리종합)",
+        "right": "종합(아리종합Ⅰ)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2023
+        ],
+        "rightYears": [
+          2024,
+          2025,
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "안양대",
+        "left": "종합(아리종합)",
+        "right": "종합(아리종합Ⅱ)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2023
+        ],
+        "rightYears": [
+          2024,
+          2025,
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "인제대",
+        "left": "교과(지역인재)",
+        "right": "교과(지역인재Ⅰ)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2023
+        ],
+        "rightYears": [
+          2024,
+          2025,
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [
+          "지역인재Ⅰ전형"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "인제대",
+        "left": "교과(지역인재)",
+        "right": "교과(지역인재Ⅱ)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2023
+        ],
+        "rightYears": [
+          2024,
+          2025,
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [
+          "지역인재Ⅱ전형"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "인하대",
+        "left": "종합(인하미래인재)",
+        "right": "종합(인하미래인재면접)",
+        "similarity": 0.8571,
+        "leftYears": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ],
+        "rightYears": [
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [
+          "인하미래인재"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "인하대",
+        "left": "종합(인하미래인재)",
+        "right": "종합(인하미래인재서류)",
+        "similarity": 0.8571,
+        "leftYears": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ],
+        "rightYears": [
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [
+          "인하미래인재"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "중부대",
+        "left": "교과(지역인재)",
+        "right": "교과(지역인재Ⅰ)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2023,
+          2024
+        ],
+        "rightYears": [
+          2025,
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [
+          "지역인재전형"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "중부대",
+        "left": "교과(지역인재)",
+        "right": "교과(지역인재Ⅱ)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2023,
+          2024
+        ],
+        "rightYears": [
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [
+          "지역인재전형"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "충남대",
+        "left": "종합Ⅰ[일반(200)]",
+        "right": "종합Ⅰ[일반(300)]",
+        "similarity": 0.875,
+        "leftYears": [
+          2026
+        ],
+        "rightYears": [
+          2026
+        ],
+        "coexistingYears": [
+          2026
+        ],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "충북대",
+        "left": "종합(학생부종합Ⅰ)",
+        "right": "종합(학생부종합Ⅱ)",
+        "similarity": 0.8333,
+        "leftYears": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "rightYears": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "coexistingYears": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "충북대",
+        "left": "학생부종합I",
+        "right": "학생부종합II",
+        "similarity": 0.9231,
+        "leftYears": [
+          2021,
+          2022
+        ],
+        "rightYears": [
+          2021,
+          2022
+        ],
+        "coexistingYears": [
+          2021,
+          2022
+        ],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "한동대",
+        "left": "종합(G-IMPACT)",
+        "right": "종합(G-IMPACT인재)",
+        "similarity": 0.875,
+        "leftYears": [
+          2021,
+          2022
+        ],
+        "rightYears": [
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "한림대",
+        "left": "교과(한림케어)",
+        "right": "교과(한림케어1)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2023
+        ],
+        "rightYears": [
+          2025,
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [
+          "한림케어1전형"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "한림대",
+        "left": "교과(한림케어)",
+        "right": "교과(한림케어2)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2023
+        ],
+        "rightYears": [
+          2025,
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [
+          "한림케어2전형"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "한서대",
+        "left": "교과(학생부교과1)",
+        "right": "교과(학생부교과2)",
+        "similarity": 0.8333,
+        "leftYears": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "rightYears": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "coexistingYears": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "officialCandidates": [
+          "학생부교과1전형",
+          "학생부교과2전형"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "한성대",
+        "left": "교과(학생부교과1)",
+        "right": "교과(학생부교과2)",
+        "similarity": 0.8333,
+        "leftYears": [
+          2023
+        ],
+        "rightYears": [
+          2023
+        ],
+        "coexistingYears": [
+          2023
+        ],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "한성대",
+        "left": "학생부교과1",
+        "right": "학생부교과2",
+        "similarity": 0.8333,
+        "leftYears": [
+          2021,
+          2022
+        ],
+        "rightYears": [
+          2022
+        ],
+        "coexistingYears": [
+          2022
+        ],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "한신대",
+        "left": "교과(학생부교과1)",
+        "right": "교과(학생부교과2)",
+        "similarity": 0.8333,
+        "leftYears": [
+          2023
+        ],
+        "rightYears": [
+          2023
+        ],
+        "coexistingYears": [
+          2023
+        ],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "한신대",
+        "left": "학생부교과1",
+        "right": "학생부교과2",
+        "similarity": 0.8333,
+        "leftYears": [
+          2022
+        ],
+        "rightYears": [
+          2022
+        ],
+        "coexistingYears": [
+          2022
+        ],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "호남대",
+        "left": "교과(일반학생)",
+        "right": "교과(일반학생A)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2023,
+          2024
+        ],
+        "rightYears": [
+          2025,
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "호남대",
+        "left": "교과(일반학생)",
+        "right": "교과(일반학생B)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2023,
+          2024
+        ],
+        "rightYears": [
+          2026
+        ],
+        "coexistingYears": [],
+        "officialCandidates": [],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      },
+      {
+        "university": "호서대",
+        "left": "교과(지역인재)",
+        "right": "교과(지역인재Ⅱ)",
+        "similarity": 0.8889,
+        "leftYears": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "rightYears": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "coexistingYears": [
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "officialCandidates": [
+          "지역인재Ⅱ전형",
+          "지역인재전형"
+        ],
+        "decision": "notMerged",
+        "reason": "Ⅰ/Ⅱ·A/B·서류/면접 등 실질 전형 분리 또는 공식 동일성 근거 부족"
+      }
+    ],
+    "rowsRelabeledByUniversity": {
+      "가야대": 16,
+      "감신대": 2,
+      "건양대": 6,
+      "경남대": 73,
+      "경상국립대": 273,
+      "경성대": 144,
+      "경일대": 90,
+      "계명대": 502,
+      "고려대": 226,
+      "국립공주대": 329,
+      "국립군산대": 92,
+      "국립목포대": 78,
+      "국립순천대": 50,
+      "국립한국교통대": 51,
+      "국립한국해양대": 47,
+      "나사렛대": 14,
+      "남서울대": 42,
+      "대구대": 180,
+      "대구한의대": 55,
+      "동국대(W)": 50,
+      "동명대": 73,
+      "동신대": 94,
+      "동양대": 45,
+      "서울대": 168,
+      "서원대": 25,
+      "세명대": 66,
+      "숙명여대": 144,
+      "순천향대": 51,
+      "숭실대": 81,
+      "신한대": 45,
+      "연세대": 6,
+      "원광대": 169,
+      "위덕대": 8,
+      "제주대": 11,
+      "조선대": 62,
+      "청주대": 49,
+      "초당대": 6,
+      "춘천교대": 5,
+      "충남대": 160,
+      "충북대": 14,
+      "한남대": 99,
+      "한신대": 29,
+      "호서대": 170,
+      "호원대": 66
+    }
+  },
+  "officialAudit": {
+    "registryUniversities": 220,
+    "mappedWorkbookUniversities": 197,
+    "universityYearPagesRequested": 1097,
+    "universityYearPagesSucceeded": 1097,
+    "universityYearPagesFailed": 0,
+    "pagesWithStructuredOfficialResults": 326,
+    "officialRowsParsed": 40700,
+    "classification": {
+      "officialTableUnavailableRows": 55516,
+      "officialExactMetricMatchRows": 22904,
+      "officialDeptUnmatchedRows": 2625,
+      "officialAdmissionUnmatchedRows": 1061,
+      "officialMetricMismatchRows": 575
+    }
+  },
+  "officialSources": {
+    "admissionOfficeUrlsChecked": 188,
+    "admissionOfficeUrlsReachable": 175,
+    "educationOfficeSourcesChecked": 17,
+    "educationOfficeSourcesReachable": 17,
+    "educationOffices": [
+      {
+        "region": "서울",
+        "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsDocNo=20260626104834741&q_bbsSn=1028",
+        "requestedUrl": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsDocNo=20260626104834741&q_bbsSn=1028",
+        "resolvedUrl": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsDocNo=20260626104834741&q_bbsSn=1028",
+        "status": 200,
+        "reachable": true,
+        "sampleBytes": 32768,
+        "error": null
+      },
+      {
+        "region": "부산",
+        "url": "https://dandi.pen.go.kr/",
+        "requestedUrl": "https://dandi.pen.go.kr/",
+        "resolvedUrl": "https://dandi.pen.go.kr/",
+        "status": 200,
+        "reachable": true,
+        "sampleBytes": 32768,
+        "error": null
+      },
+      {
+        "region": "대구",
+        "url": "https://www.dge.go.kr/",
+        "requestedUrl": "https://www.dge.go.kr/",
+        "resolvedUrl": "https://www.dge.go.kr/",
+        "status": 206,
+        "reachable": true,
+        "sampleBytes": 372,
+        "error": null
+      },
+      {
+        "region": "인천",
+        "url": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?mi=12309&nttSn=3361251",
+        "requestedUrl": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?mi=12309&nttSn=3361251",
+        "resolvedUrl": "https://www.ice.go.kr/ice/na/ntt/selectNttInfo.do?mi=12309&nttSn=3361251",
+        "status": 200,
+        "reachable": true,
+        "sampleBytes": 32768,
+        "error": null
+      },
+      {
+        "region": "광주",
+        "url": "https://www.gen.go.kr/",
+        "requestedUrl": "https://www.gen.go.kr/",
+        "resolvedUrl": "https://www.gen.go.kr/",
+        "status": 206,
+        "reachable": true,
+        "sampleBytes": 509,
+        "error": null
+      },
+      {
+        "region": "대전",
+        "url": "https://www.dje.go.kr/",
+        "requestedUrl": "https://www.dje.go.kr/",
+        "resolvedUrl": "https://www.dje.go.kr/",
+        "status": 416,
+        "reachable": true,
+        "sampleBytes": 0,
+        "error": null
+      },
+      {
+        "region": "울산",
+        "url": "https://use.go.kr/jinhak/user/bbs/BD_selectBbsList.do?q_bbsSn=1098",
+        "requestedUrl": "https://use.go.kr/jinhak/user/bbs/BD_selectBbsList.do?q_bbsSn=1098",
+        "resolvedUrl": "https://use.go.kr/jinhak/user/bbs/BD_selectBbsList.do?q_bbsSn=1098",
+        "status": 200,
+        "reachable": true,
+        "sampleBytes": 32768,
+        "error": null
+      },
+      {
+        "region": "세종",
+        "url": "https://www.sje.go.kr/free/cm/cntnts/cntntsView.do?cntntsId=35441&mi=52434",
+        "requestedUrl": "https://www.sje.go.kr/free/cm/cntnts/cntntsView.do?cntntsId=35441&mi=52434",
+        "resolvedUrl": "https://www.sje.go.kr/free/cm/cntnts/cntntsView.do?cntntsId=35441&mi=52434",
+        "status": 200,
+        "reachable": true,
+        "sampleBytes": 32768,
+        "error": null
+      },
+      {
+        "region": "경기",
+        "url": "https://more.goe.go.kr/jinhak/subList/30300001896",
+        "requestedUrl": "https://more.goe.go.kr/jinhak/subList/30300001896",
+        "resolvedUrl": "https://more.goe.go.kr/jinhak/subList/30300001896",
+        "status": 200,
+        "reachable": true,
+        "sampleBytes": 32768,
+        "error": null
+      },
+      {
+        "region": "강원",
+        "url": "https://jinhak.gwe.go.kr/",
+        "requestedUrl": "https://jinhak.gwe.go.kr/",
+        "resolvedUrl": "https://jinhak.gwe.go.kr/",
+        "status": 200,
+        "reachable": true,
+        "sampleBytes": 32768,
+        "error": null
+      },
+      {
+        "region": "충북",
+        "url": "https://www.cbe.go.kr/",
+        "requestedUrl": "https://www.cbe.go.kr/",
+        "resolvedUrl": "https://www.cbe.go.kr/",
+        "status": 200,
+        "reachable": true,
+        "sampleBytes": 538,
+        "error": null
+      },
+      {
+        "region": "충남",
+        "url": "https://jinhak.cne.go.kr/center_info/information",
+        "requestedUrl": "https://jinhak.cne.go.kr/center_info/information",
+        "resolvedUrl": "https://jinhak.cne.go.kr/center_info/information",
+        "status": 200,
+        "reachable": true,
+        "sampleBytes": 23037,
+        "error": null
+      },
+      {
+        "region": "전북",
+        "url": "https://news.jbe.go.kr/board/view.jbe?boardId=BBS_0000203&dataSid=849402",
+        "requestedUrl": "https://news.jbe.go.kr/board/view.jbe?boardId=BBS_0000203&dataSid=849402",
+        "resolvedUrl": "https://news.jbe.go.kr/board/view.jbe?boardId=BBS_0000203&dataSid=849402",
+        "status": 200,
+        "reachable": true,
+        "sampleBytes": 4667,
+        "error": null
+      },
+      {
+        "region": "전남",
+        "url": "https://www.jne.go.kr/jinro/",
+        "requestedUrl": "https://www.jne.go.kr/jinro/",
+        "resolvedUrl": "https://www.jne.go.kr/jinro/",
+        "status": 200,
+        "reachable": true,
+        "sampleBytes": 226,
+        "error": null
+      },
+      {
+        "region": "경북",
+        "url": "https://www.gbe.kr/jinhak/main.do",
+        "requestedUrl": "https://www.gbe.kr/jinhak/main.do",
+        "resolvedUrl": "https://www.gbe.kr/jinhak/main.do",
+        "status": 200,
+        "reachable": true,
+        "sampleBytes": 32768,
+        "error": null
+      },
+      {
+        "region": "경남",
+        "url": "https://www.gne.go.kr/",
+        "requestedUrl": "https://www.gne.go.kr/",
+        "resolvedUrl": "https://www.gne.go.kr/",
+        "status": 200,
+        "reachable": true,
+        "sampleBytes": 1330,
+        "error": null
+      },
+      {
+        "region": "제주",
+        "url": "https://jinhak.jje.go.kr/",
+        "requestedUrl": "https://jinhak.jje.go.kr/",
+        "resolvedUrl": "https://jinhak.jje.go.kr/",
+        "status": 200,
+        "reachable": true,
+        "sampleBytes": 32768,
+        "error": null
+      }
+    ]
+  },
+  "carriedForwardVerifiedCorrections": {
+    "fromVersion": "10",
+    "officialMetricRows": 573,
+    "formulaRows": 1,
+    "textualSupplementalRows": 5,
+    "exactDuplicateRowsRemoved": 65
+  },
+  "limitations": {
+    "adigaStructuredTableUnavailableRows": 55516,
+    "adigaDeptNameUnmatchedRows": 2625,
+    "adigaAdmissionNameUnmatchedRows": 1061,
+    "note": "공식 표가 없거나 명칭 대응이 불명확한 값은 추정 수정하지 않았다. 숫자·Ⅰ/Ⅱ·A/B·서류/면접 등 구분 가능성이 있는 유사 전형명도 유지했다."
+  },
+  "visualAndFunctionalQa": {
+    "pass": true,
+    "checkedAt": "2026-09-03",
+    "desktop": {
+      "viewportWidth": 1280,
+      "bodyWidth": 1265,
+      "horizontalOverflow": false,
+      "consoleErrors": 0
+    },
+    "mobile": {
+      "viewportWidth": 390,
+      "bodyWidth": 375,
+      "horizontalOverflow": false,
+      "consoleErrors": 0
+    },
+    "seoulNationalAdmissionAutocomplete": [
+      "종합(일반전형)"
+    ],
+    "seoulNationalGeneralYears": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "seoulNationalGeneralResultRows": 483,
+    "chartRendered": true,
+    "tableRendered": true,
+    "sortingVerified": true,
+    "comparisonSeriesVerified": true
+  },
+  "trendLogic": {
+    "columnHeading": "전년도와의 추이",
+    "targetYear": "경쟁률 수치가 있는 최신 공개 연도",
+    "comparisonYear": "그보다 앞선 연도 중 경쟁률 수치가 있는 가장 가까운 연도",
+    "examples": [
+      "2025 → 2026",
+      "2024 → 2026"
+    ],
+    "tablePresentation": "실제 비교 연도를 표시하고 배경·테두리 없는 색상 텍스트로 표현",
+    "aggregateUsesSameRule": true
+  },
+  "freshFullAudit": {
+    "cacheReused": false,
+    "workbookSheets": 1,
+    "workbookRows": 82681,
+    "adigaPages": 1097,
+    "adigaPageFailures": 0,
+    "admissionOfficeUrls": 188,
+    "educationOfficeUrls": 17
+  },
+  "freshAdmissionNameAudit": {
+    "rowsAudited": 82616,
+    "universitiesAudited": 197,
+    "universityAdmissionPairsAudited": 1277,
+    "exactVariantGroupsRemaining": 0,
+    "fuzzyCandidatesReviewedConservatively": 48
+  },
+  "browserQa": {
+    "pass": true,
+    "verifiedAt": "2026-09-06T01:44:42+09:00",
+    "runtimeSearch": {
+      "query": "가톨릭대 · 종합(가톨릭지도자)",
+      "resultRows": 14,
+      "universityAutocomplete": true,
+      "admissionIndexing": true,
+      "admissionTypeAutoMatch": "종합",
+      "averageSummary": true,
+      "trendRendered": true,
+      "chartRendered": true,
+      "comparisonCheckboxUpdatesChart": true,
+      "comparisonLegendUsesDistinctIndex": true
+    },
+    "consoleWarningsOrErrors": 0,
+    "localReloadMilliseconds": 807,
+    "editionSwitch": {
+      "label": "PC 버전",
+      "url": "https://seiryu1318.github.io/competition-rate_Ryan/"
+    },
+    "mobileViewportChecks": [
+      {
+        "width": 320,
+        "horizontalOverflow": false,
+        "inputFontPixels": 16
+      },
+      {
+        "width": 360,
+        "horizontalOverflow": false,
+        "inputFontPixels": 16
+      },
+      {
+        "width": 390,
+        "horizontalOverflow": false,
+        "inputFontPixels": 16
+      },
+      {
+        "width": 430,
+        "horizontalOverflow": false,
+        "inputFontPixels": 16
+      }
+    ],
+    "zoomControlsDisabled": true,
+    "visualQa": "pass"
+  },
+  "pairedPages": {
+    "pc": "https://seiryu1318.github.io/competition-rate_Ryan/",
+    "mobile": "https://seiryu1318.github.io/competition-rate_RyanM/"
+  },
+  "edition": "mobile",
+  "editionSwitch": {
+    "label": "PC 버전",
+    "url": "https://seiryu1318.github.io/competition-rate_Ryan/"
+  },
+  "mobileLayout": {
+    "horizontalDocumentScroll": false,
+    "tablePresentation": "two-column compact cards",
+    "inputFontSizePx": 16,
+    "viewportZoomDisabled": true,
+    "gestureZoomDisabled": true
+  }
+}
