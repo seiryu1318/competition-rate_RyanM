@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "competition-release-attestation-v16/1",
+  "sealedAt": "2026-11-16T10:09:14+09:00",
+  "status": "RELEASE_READY",
+  "pass": true,
+  "releaseReady": true,
+  "pcHtmlSha256": "D26CC029DF9751898B48E31DFC34ABD91644D20DED01AA6BDC557761D3A082C2",
+  "mobileHtmlSha256": "A6DCA83D5EE94899DD561A5D768443BC092C40231AFCD6393A57FA920352CC7B",
+  "canonicalSha256": "6134A7F60D88D4525FB2F88F211282CE568839C3ECC661DEC1E35FAFB7B22B71",
+  "canonicalValidationSha256": "B2966D04B3346281CCF1060DE1AFE2B6EBED8205285A90116E201C5BA3570F09",
+  "visualQaSha256": "5E692235066A7F7DE86D521548BBF47187D623C5618B3ED10BB97E4EFD1AAB5D",
+  "sourceRows": 82681,
+  "releasedRows": 82615,
+  "duplicateRows": 66,
+  "quarantineRows": 0,
+  "withdrawnCommonLedgerExcluded": true,
+  "repositoryVerificationBeforeDeploy": {
+    "pc": {
+      "clean": true,
+      "head": "c7e8a69ac129d4fd6e1e509ed4cd940331a08b77",
+      "originMain": "c7e8a69ac129d4fd6e1e509ed4cd940331a08b77"
+    },
+    "mobile": {
+      "clean": true,
+      "head": "920954a2e0c8a033563e33efe3421bd953fb5c4c",
+      "originMain": "920954a2e0c8a033563e33efe3421bd953fb5c4c"
+    }
+  }
+}

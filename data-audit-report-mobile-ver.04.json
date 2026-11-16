@@ -1,0 +1,133 @@
+{
+  "releaseReady": true,
+  "status": "RELEASE_READY",
+  "auditedAt": "2026-11-16",
+  "scope": "2021-2026 모든 연도·대학·전형·모집단위 경쟁률 원자료",
+  "masterWorkbook": {
+    "fileName": "21-26 수시모집 입시결과 모음집(1차 편집본).xlsx",
+    "sha256": "FD94E4183012BF7A730165029859B9C3963D219B31482FFAE34375EE62453C4F",
+    "sheetCount": 1,
+    "rowsAudited": 82681,
+    "headers": [
+      "지역",
+      "대학",
+      "연도",
+      "전형성격",
+      "임시",
+      "모집단위",
+      "인문/자연",
+      "모집인원",
+      "경쟁률",
+      "추합",
+      "충원률",
+      "교과50",
+      "교과70",
+      "교과만점",
+      "등급50",
+      "등급70",
+      "총지원인원",
+      "합격인원",
+      "실경쟁률"
+    ]
+  },
+  "officialAudit": {
+    "auditRunId": "competition-v16-official-audit-2026-11-16",
+    "auditedAt": "2026-11-16T10:04:23+09:00",
+    "freshFetch": true,
+    "cacheReused": false,
+    "officialProbeArtifactSha256": "5D9481F3AB753294D3897C591FB60FC70B993BB9670CC2955CAC73287463A086",
+    "designatedLocalInventorySha256": "E4572690AEF4883981ED37A7C4687C39FCAA2CB95EB35612EEE56610BAAB8079",
+    "departmentOutcomePdfManifestSha256": "8E3FF820B1268DD4DFC187BEF35A9746F98972D3634F865C1AA1629B03C10D20",
+    "departmentOutcomePdfSourcesChecked": 15,
+    "departmentOutcomePdfPagesChecked": 550,
+    "departmentOutcomePdfTextExtractablePages": 550,
+    "universityYearPagesRequested": 3291,
+    "universityYearPagesSucceeded": 3291,
+    "universityYearPagesFailed": 0
+  },
+  "sourceProbes": {
+    "admissionOfficeUrlsChecked": 188,
+    "admissionOfficeUrlsReachable": 188,
+    "educationOfficeSourcesChecked": 17,
+    "educationOfficeSourcesReachable": 17,
+    "rowBindingCredit": true
+  },
+  "rowBinding": {
+    "rowsAudited": 82681,
+    "boundRows": 82615,
+    "excludedRows": 66,
+    "duplicateRows": 66,
+    "quarantineRows": 0,
+    "unresolvedRows": 0,
+    "dispositionCounts": {
+      "bind": 82158,
+      "correct": 457,
+      "duplicate": 66,
+      "quarantine": 0
+    },
+    "classification": {
+      "bound": 82615,
+      "duplicate_source_row": 66
+    },
+    "boundYearCounts": {
+      "2021": 11247,
+      "2022": 13469,
+      "2023": 14219,
+      "2024": 14359,
+      "2025": 14394,
+      "2026": 14927
+    },
+    "ledgerFile": "competition-common-audit-ledger-ver.16.jsonl",
+    "ledgerSha256": "880C265022F6ACF34DA5C5518DFCB79766327FA56269F225BA023EBE5A6B81DD",
+    "boundFile": "competition-source-bound-ver.16.jsonl",
+    "boundSha256": "BFE8879BE9F55D63E3C6D8FC00DBD281E1DBBFB3560B3D9A2E86560ECA15A450",
+    "excludedFile": "competition-source-quarantine-ver.16.jsonl",
+    "excludedSha256": "AC4A68F79158D7905715AF6C16B65512CCB3AB73A91455FE706D37222D979723",
+    "duplicateFile": "competition-source-duplicate-ver.16.jsonl",
+    "duplicateSha256": "AC4A68F79158D7905715AF6C16B65512CCB3AB73A91455FE706D37222D979723",
+    "finalDispositionFile": "final_row_disposition_v16.json",
+    "finalDispositionSha256": "6134A7F60D88D4525FB2F88F211282CE568839C3ECC661DEC1E35FAFB7B22B71"
+  },
+  "existingArtifactsPreserved": {
+    "indexAndGitHubUntouched": true,
+    "hashesBefore": {
+      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\index.html": "E74097AB4127464BD21AA6090A68EE363250B2DAC7CE89B526C3B81F222ABEE5",
+      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\모바일 버전\\index.html": "5B50976EB42988C05D3F687C8A58DC37F7E999FDFA813825EDAB58CE054DB326",
+      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\GitHub 배포용\\competition-rate_Ryan\\index.html": "E74097AB4127464BD21AA6090A68EE363250B2DAC7CE89B526C3B81F222ABEE5",
+      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\GitHub 배포용\\competition-rate_RyanM\\index.html": "5B50976EB42988C05D3F687C8A58DC37F7E999FDFA813825EDAB58CE054DB326"
+    },
+    "hashesAfter": {
+      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\index.html": "E74097AB4127464BD21AA6090A68EE363250B2DAC7CE89B526C3B81F222ABEE5",
+      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\모바일 버전\\index.html": "5B50976EB42988C05D3F687C8A58DC37F7E999FDFA813825EDAB58CE054DB326",
+      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\GitHub 배포용\\competition-rate_Ryan\\index.html": "E74097AB4127464BD21AA6090A68EE363250B2DAC7CE89B526C3B81F222ABEE5",
+      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\GitHub 배포용\\competition-rate_RyanM\\index.html": "5B50976EB42988C05D3F687C8A58DC37F7E999FDFA813825EDAB58CE054DB326"
+    },
+    "githubDeployed": false
+  },
+  "validation": {
+    "static": "pass",
+    "runtimeContract": "pass",
+    "visualQa": "pass"
+  },
+  "version": "mobile-04",
+  "edition": "mobile",
+  "stagedHtmlFile": "라이언의_경쟁률_오디세이_모바일_ver.04.html",
+  "stagedHtmlSha256": "A6DCA83D5EE94899DD561A5D768443BC092C40231AFCD6393A57FA920352CC7B",
+  "editionSwitch": {
+    "label": "PC 버전",
+    "url": "https://seiryu1318.github.io/competition-rate_Ryan/"
+  },
+  "sealedAt": "2026-11-16T10:09:14+09:00",
+  "repositoryVerification": {
+    "pc": {
+      "clean": true,
+      "head": "c7e8a69ac129d4fd6e1e509ed4cd940331a08b77",
+      "originMain": "c7e8a69ac129d4fd6e1e509ed4cd940331a08b77"
+    },
+    "mobile": {
+      "clean": true,
+      "head": "920954a2e0c8a033563e33efe3421bd953fb5c4c",
+      "originMain": "920954a2e0c8a033563e33efe3421bd953fb5c4c"
+    }
+  }
+}
