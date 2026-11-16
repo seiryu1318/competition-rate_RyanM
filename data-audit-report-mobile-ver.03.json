@@ -91,16 +91,16 @@
   "existingArtifactsPreserved": {
     "indexAndGitHubUntouched": true,
     "hashesBefore": {
-      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\index.html": "BBBECA593C7927F8042A0EECD818D2512C8FF085C7DEE7D8FB13C056FCDE7321",
-      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\모바일 버전\\index.html": "BDDC0C0563176C99167233EA2F77D1DF44B6C7DEB43D025667BCDAB7DE4D8B86",
-      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\GitHub 배포용\\competition-rate_Ryan\\index.html": "BBBECA593C7927F8042A0EECD818D2512C8FF085C7DEE7D8FB13C056FCDE7321",
-      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\GitHub 배포용\\competition-rate_RyanM\\index.html": "BDDC0C0563176C99167233EA2F77D1DF44B6C7DEB43D025667BCDAB7DE4D8B86"
+      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\index.html": "9AB45E2E2CD0CDCBE6EA73F98DDFDD8762C4AAC6D4944CFC2EC91A0E29F9BD31",
+      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\모바일 버전\\index.html": "C912ADEA8207A354F29287F5FB8935E4314DF24B38D0AA0BB9B96F297ED5F30E",
+      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\GitHub 배포용\\competition-rate_Ryan\\index.html": "9AB45E2E2CD0CDCBE6EA73F98DDFDD8762C4AAC6D4944CFC2EC91A0E29F9BD31",
+      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\GitHub 배포용\\competition-rate_RyanM\\index.html": "C912ADEA8207A354F29287F5FB8935E4314DF24B38D0AA0BB9B96F297ED5F30E"
     },
     "hashesAfter": {
-      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\index.html": "BBBECA593C7927F8042A0EECD818D2512C8FF085C7DEE7D8FB13C056FCDE7321",
-      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\모바일 버전\\index.html": "BDDC0C0563176C99167233EA2F77D1DF44B6C7DEB43D025667BCDAB7DE4D8B86",
-      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\GitHub 배포용\\competition-rate_Ryan\\index.html": "BBBECA593C7927F8042A0EECD818D2512C8FF085C7DEE7D8FB13C056FCDE7321",
-      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\GitHub 배포용\\competition-rate_RyanM\\index.html": "BDDC0C0563176C99167233EA2F77D1DF44B6C7DEB43D025667BCDAB7DE4D8B86"
+      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\index.html": "9AB45E2E2CD0CDCBE6EA73F98DDFDD8762C4AAC6D4944CFC2EC91A0E29F9BD31",
+      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\모바일 버전\\index.html": "C912ADEA8207A354F29287F5FB8935E4314DF24B38D0AA0BB9B96F297ED5F30E",
+      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\GitHub 배포용\\competition-rate_Ryan\\index.html": "9AB45E2E2CD0CDCBE6EA73F98DDFDD8762C4AAC6D4944CFC2EC91A0E29F9BD31",
+      "C:\\Users\\User\\Desktop\\업무\\작업\\19. 경쟁률 검색기\\GitHub 배포용\\competition-rate_RyanM\\index.html": "C912ADEA8207A354F29287F5FB8935E4314DF24B38D0AA0BB9B96F297ED5F30E"
     },
     "githubDeployed": false
   },
@@ -112,22 +112,22 @@
   "version": "mobile-03",
   "edition": "mobile",
   "stagedHtmlFile": "라이언의_경쟁률_오디세이_모바일_ver.03.html",
-  "stagedHtmlSha256": "C912ADEA8207A354F29287F5FB8935E4314DF24B38D0AA0BB9B96F297ED5F30E",
+  "stagedHtmlSha256": "5B50976EB42988C05D3F687C8A58DC37F7E999FDFA813825EDAB58CE054DB326",
   "editionSwitch": {
     "label": "PC 버전",
     "url": "https://seiryu1318.github.io/competition-rate_Ryan/"
   },
-  "sealedAt": "2026-11-16T09:48:33+09:00",
+  "sealedAt": "2026-11-16T09:55:40+09:00",
   "repositoryVerification": {
     "pc": {
       "clean": true,
-      "head": "a7395321c7081f416251e5e31baea1582b855f1c",
-      "originMain": "a7395321c7081f416251e5e31baea1582b855f1c"
+      "head": "20d592d827c3dd80e57a60367112979a0638c86b",
+      "originMain": "20d592d827c3dd80e57a60367112979a0638c86b"
     },
     "mobile": {
       "clean": true,
-      "head": "81af8e4b4aafd3e721d1ea49e472d821990cac73",
-      "originMain": "81af8e4b4aafd3e721d1ea49e472d821990cac73"
+      "head": "709bdfa1e9aa6d49722c64423564c92ab2ab30c3",
+      "originMain": "709bdfa1e9aa6d49722c64423564c92ab2ab30c3"
     }
   }
 }
